@@ -1,5 +1,3 @@
-Turku BioImaging
-
 Welcome to Turku BioImaging! We are a multidisciplinary scientific organization, dedicated to promoting cutting-edge research in bioimaging. This GitHub organization is for our Image Data Services, where we provide image processing and analysis services to academics and industry partners.
 
 ## Image Data Services
