@@ -8,6 +8,9 @@ Turku BioImaging is a broad, interdisciplinary science community in Turku, Finla
 
 For any inquiries, please reach out to us at [tbi-office@bioimaging.fi](mailto:tbi-office@bioimaging.fi)
 
+## Tools we use
+![Tools we use](https://go-skill-icons.vercel.app/api/icons?i=py,numpy,pandas,nextflow,dask,tensorflow,pytorch,scikitlearn,scipy,seaborn,vscode,openstack,linux,bash,git,ts,docker&theme=light) 
+
 ## Follow Us
 
 Stay updated with our latest projects and research:
