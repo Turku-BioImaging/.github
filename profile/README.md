@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/837fb991-f94f-46ac-891c-3c7616924069" style="width:35vw;height:auto;margin-bottom:25px;">  
+
+## 
 Welcome to Turku BioImaging! We are a multidisciplinary scientific organization, dedicated to promoting cutting-edge research in bioimaging. This GitHub organization is for our Image Data Services, where we provide image processing and analysis services to academics and industry partners.
 
 ## Image Data Services
