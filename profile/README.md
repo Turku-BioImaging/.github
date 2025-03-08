@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/837fb991-f94f-46ac-891c-3c7616924069" style="width:35vw;height:auto;margin-bottom:25px;" alt='Turku BioImaging'>  
+<img src="https://github.com/user-attachments/assets/ede7258f-02cd-41d6-99da-da4df67a0c0b" style="width:35vw;height:auto;margin-bottom:25px;" alt='Turku BioImaging'>  
 
 <a href="https://bioimaging.fi" target="_blank"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'></a>
 <a href="https://www.linkedin.com/company/turku-bioimaging/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
@@ -16,5 +16,5 @@ Turku BioImaging is a broad, interdisciplinary science community in Turku, Finla
 ## Contact us
 For inquiries, please email [tbi-office@bioimaging.fi](mailto:tbi-office@bioimaging.fi)
 
-## Tools we use
-![Tools we use](https://go-skill-icons.vercel.app/api/icons?i=py,numpy,pandas,nextflow,dask,tensorflow,pytorch,scikitlearn,scipy,seaborn,vscode,openstack,linux,bash,git,ts,docker&theme=light&titles=true) 
+
+![Tools we use](https://go-skill-icons.vercel.app/api/icons?i=py,numpy,pandas,nextflow,dask,tensorflow,pytorch,scikitlearn,scipy,seaborn,vscode,openstack,linux,bash,git&theme=light&perline=6)
