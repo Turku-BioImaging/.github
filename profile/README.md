@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ede7258f-02cd-41d6-99da-da4df67a0c0b" style="width:35vw;height:auto;margin-bottom:25px;" alt='Turku BioImaging'>  
+<img src="https://github.com/user-attachments/assets/ede7258f-02cd-41d6-99da-da4df67a0c0b" style="width:100%;height:auto;margin-bottom:25px;" alt='Turku BioImaging'>  
 
 <a href="https://bioimaging.fi" target="_blank"><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'></a>
 <a href="https://www.linkedin.com/company/turku-bioimaging/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
