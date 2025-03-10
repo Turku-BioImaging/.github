@@ -6,7 +6,7 @@
 <a href="https://github.com/turku-bioimaging" target='_blank'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 <a href=""><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
 
-## 
+####  
 Welcome to Turku BioImaging! We are a multidisciplinary scientific organization, dedicated to promoting cutting-edge research in bioimaging. This GitHub organization is for our Image Data Services, where we provide image processing and analysis services to academics and industry partners.
 
 ## Image Data Services
@@ -18,6 +18,9 @@ We provide image analysis tools and services, built upon the established resourc
 
 ## Contact us
 For inquiries, please email [tbi-office@bioimaging.fi](mailto:tbi-office@bioimaging.fi)
+
+####  
+####  
 
 
 ![Tools we use](https://go-skill-icons.vercel.app/api/icons?i=py,numpy,pandas,nextflow,dask,tensorflow,pytorch,scikitlearn,scipy,seaborn,vscode,openstack,linux,bash,git&theme=light&perline=6)
