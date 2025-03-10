@@ -13,6 +13,9 @@ Welcome to Turku BioImaging! We are a multidisciplinary scientific organization,
 
 Turku BioImaging is a broad, interdisciplinary science community in Turku, Finland. We aim to promote research and education in bioimaging and provide the tools necessary for understanding complex biological systems.
 
+## For Industry Partners
+We provide image analysis tools and services, built upon the established resources of Euro-Bioimaging Finland, tailored to meet the needs of industry users. If your company requires robust image analysis for research, quality control, or product development, we offer a range of solutions, from custom scripts to consultation on existing pipelines. We aim to deliver practical, efficient, and reliable analysis, helping you extract valuable information from your visual data.
+
 ## Contact us
 For inquiries, please email [tbi-office@bioimaging.fi](mailto:tbi-office@bioimaging.fi)
 
